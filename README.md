@@ -8,6 +8,6 @@ in order to this jenkins piple line we need to deploy some plugin like
 then follow the steps as given document
 and configure jenkins
 1.java
-2.maven
+2.mvn
 3.git for this project
 webhook trigger  t jenkins......
